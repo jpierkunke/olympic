@@ -1,6 +1,7 @@
 ---
 title: "A demo of my code"
 format: html
+embed-resources: true
 ---
 
 ```{r}
